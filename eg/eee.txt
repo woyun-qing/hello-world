@@ -1,1 +1,0 @@
-VBS set txtfile=fso.opentextfile("html.txt",forreading) 
