@@ -6,7 +6,7 @@ path = root + url.split('/')[-1]
 try:
     if not os.path.exists(root):
         os.mkdir(root)
-    if not os.path.exists(path)
+    if not os.path.exists(path):
         r = requests.get(url)
         with open(path,'wb') as f:
             f.write(r.content)
