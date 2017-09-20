@@ -1,10 +1,8 @@
 import requests
 import os
-
 url = 'http://image.nationalgeographic.com.cn/2017/0211/20170211061910157.jpg'
-root = '/home/roy/Desktop/git'
-path = root + '/' + url.split('/')[-1]
-
+root = '/home/roy/Desktop/git/'
+path = root + url.split('/')[-1]
 try:
 	if not os.path.exists(root):
 		os.mkdir(root)
@@ -15,6 +13,6 @@ try:
 			f.close()
 			print 'file is saved successfully'
 	else:
-		print 'the file is existed'
+		print 'file is exists'
 except:
 	print 'scrapy fault'
