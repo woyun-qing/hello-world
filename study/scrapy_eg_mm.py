@@ -2,10 +2,10 @@ import requests
 import urllib2
 import os
 import re
-url_begin = 'https://mm.taobao.com/self/model_album.htm?spm=719.7800510.a312r.16.OHCak4&user_id=290551947'
-
+url_begin = 'https://mm.taobao.com/self/model_album.htm?spm=719.7800510.a312r.16.473UxL&user_id=176817195'
+headers = {'user-agent':'Mozilla/5.0 (X11; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0','accept':'*/*','referer':'https://mm.taobao.com/self/model_album.htm?spm=719.7800510.a312r.16.473UxL&user_id=176817195','connection':'keep-alive','cache-control':'max-age=0'}
 def DownloadUrl(url):
-	r = requests.get(url,headers={"User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"})
+	r = requests.get(url,headers = headers)
 	r.raise_for_status
 	r.encoding = r.apparent_encoding
 	return r.text.encode('utf-8')
@@ -32,6 +32,7 @@ def SaveFile(html):
 		print 'file is saved successfully'
 
 if __name__ == '__main__':
+	html = DownloadUrl(url_begin)
 	html = DownloadUrl(url_begin)
 	SaveFile(html)	
 	re3 = ReHtml(html)
