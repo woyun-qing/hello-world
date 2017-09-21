@@ -7,6 +7,7 @@ try:
 	print r.text[:1000]
 except:
 	print 'scrapy fault'
+
 '''
 r = requests.get(url)
 print r.status_code
