@@ -1,16 +1,29 @@
-from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.common.keys import Keys
-import time
+import requests
+import sys
+import json
+import chardet
+def ChangeType():
+	print sys.getdefaultencoding()
+	reload(sys)
+	sys.setdefaultencoding('utf-8')
+	print sys.getdefaultencoding()
 
-browser = webdriver.Firefox()
-browser.get("http://www.yahoo.com") # Load page
-assert "Yahoo!" in browser.title
-elem = browser.find_element_by_name("p") # Find the query box
-elem.send_keys("seleniumhq" + Keys.RETURN)
-time.sleep(0.2) # Let the page load, will be added to the API
-try:
-    browser.find_element_by_xpath("//a[contains(@href,'http://seleniumhq.org')]")
-except NoSuchElementException:
-    assert 0, "can't find seleniumhq"
-browser.close()
+ChangeType()
+url = 'https://mm.taobao.com/tstar/search/tstar_model.do?_input_charset=utf-8'
+html = requests.get(url)
+html.encoding = html.apparent_encoding
+print type(html.text)
+html1 = html.text.encode('utf-8')
+js1 = json.loads(html1,encoding='utf-8')['data']['searchDOList']
+for i in js1:
+	print i['userId']
+print len(js1)
+'''
+#print chardet.detect(js2)
+with open('html.txt','wr') as f:
+	json.dump(js1,f)
+	f.close()
+
+case_list_righ = str(case_list).replace('u\'','\'')
+print case_list_righ.decode("unicode-escape")
+'''

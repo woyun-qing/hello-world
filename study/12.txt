@@ -1,0 +1,346 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="GBK" />
+		<title>淘女郎 - 她的相册</title>
+		<script>window.g_config={appId:1013};</script>		<meta name="data-spm" content="719" />
+		<meta name="description" content="淘女郎平台是引领女性时尚消费的网模分享平台，一群爱美、爱时尚、爱分享的女性网模在这里聚集，她们为广大的女性消费者提供时尚的搭配，为卖家提供店铺拍摄，这里有明星艺人，也有草根明星；有网络模特，也有传统模特；这里是模特们的秀场，也更是普通女性消费者的生活秀场。" />
+		<meta name="keywords" content="淘女郎,女性时尚，购物分享,网络模特" />
+				<!-- S GLOBAL CSS -->
+<link rel="stylesheet" href="//g.alicdn.com/tb/global/3.5.34/global-min.css">
+<!-- S GLOBAL CSS -->
+		<link rel="stylesheet" href="//g.alicdn.com/tb/tstar/0.5.5/migrate/tbsp.css?t=20090602.css" />
+        <!-- S GLOBAL JS -->
+<script src="//assets.alicdn.com/s/kissy/1.2.0/kissy-min.js"></script>
+<script src="//g.alicdn.com/tb/global/3.5.34/global-min.js"></script>
+<!-- E GLOBAL JS -->
+
+		
+		
+		<script src="//g.alicdn.com/tb/snsdk/0.0.12/core.min.js"></script>
+		<link rel="shortcut icon" href="//gtd.alicdn.com/favicon.ico" type="image/x-icon" />
+		<link rel="search" type="application/opensearchdescription+xml" href="//assets.alicdn.com/plugins/opensearch/provider.xml" title="淘宝购物" />
+	
+					<link rel="stylesheet" type="text/css" href="//g.alicdn.com/tb/tstar/0.5.5//tsdpl.css?t=20130917.css"/>
+    
+
+        			<link rel="stylesheet" type="text/css" href="//g.alicdn.com/tb/tstar/0.5.5/components/ui.css?t=20130917.css"/>
+    
+
+			    	<script src="//g.alicdn.com/tb/tstar/0.5.5/components/core.js?t=20130917.js"></script>
+    
+							<link rel="stylesheet" type="text/css" href="//g.alicdn.com/tb/tstar/0.5.5/Common/css/global.css?t=20130917.css"/>
+    
+
+			    	<script src="//g.alicdn.com/tb/tstar/0.5.5/Common/js/global.js?t=20130917.js"></script>
+    
+		
+        			<link rel="stylesheet" type="text/css" href="//g.alicdn.com/tb/tstar/0.5.5/app/ucenter/common/global.css?t=20130917.css"/>
+    
+
+			    	<script src="//g.alicdn.com/tb/tstar/0.5.5/app/ucenter/common/global.js?t=20131011.js"></script>
+    
+         <link rel="stylesheet" href="//g.alicdn.com/tb/mm/0.2.3/p/global/index.css" />
+         <style>
+.mm_head .mm_container {width:990px}
+.mm_head .mm_nav {margin-right:20px}
+</style>
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="//g.alicdn.com/tb/mm/0.2.3/p/home/ie.css" />
+<![endif]-->	</head>
+<body data-spm="7800767" ><script type="text/javascript">
+(function (d) {
+var t=d.createElement("script");t.type="text/javascript";t.async=true;t.id="tb-beacon-aplus";
+t.setAttribute("exparams","category=&userid=&aplus");
+t.src=("https:"==d.location.protocol?"https://s":"http://a")+".tbcdn.cn/s/aplus_v2.js";
+d.getElementsByTagName("head")[0].appendChild(t);
+})(document);
+</script>
+
+    	<div><!-- S GLOBAL HTML -->
+<div id="J_SiteNav" class="site-nav">
+  <div id="J_SiteNavBd" class="site-nav-bd">
+    <ul id="J_SiteNavBdL" class="site-nav-bd-l"></ul>
+    <ul id="J_SiteNavBdR" class="site-nav-bd-r"></ul>
+  </div>
+</div>
+<!-- -->
+<!-- 全网顶通 -->
+<!-- E GLOBAL HTML   --></div>
+		
+	 
+     <div class="J_MM_Head mm_head" data-spm="1998089564">
+    <div class="mm_container">
+        <h1 class="J_MM_Logo mm_logo">
+            <a href="//mm.taobao.com/" title="淘女郎">淘女郎</a>
+        </h1>
+
+        <div class="J_MM_Search mm_search">
+            <form method="get" action="//mm.taobao.com/guide/model_item_search_list.htm" target="_blank">
+                <input type="hidden" value="6" name="type">
+                <input class="mm_search_input" name="text" type="text" autocomplete="off" value="">
+                <button class="mm_button_search-submit" type="submit" title="搜索">搜索</button>
+            </form>
+            <div class="mm_search_menu">
+                <p class="J_MM_Search_Menu_Goods mm_search_menu_goods">
+                    <a class="J_MM_Search_Menu_Goods_Link" href="#" target="_blank">找 <span class="J_MM_Search_Menu_Keyword mm_search_menu_keyword"></span> 的商品</a>
+                </p>
+                <p class="J_MM_Search_Menu_People mm_search_menu_people">
+                    <a class="J_MM_Search_Menu_People_Link" href="#" target="_blank">找 <span class="J_MM_Search_Menu_Keyword mm_search_menu_keyword"></span> 的淘女郎</a>
+                </p>
+            </div>
+        </div>
+
+        <ul class="J_MM_Nav mm_nav">
+            <li class="home"><a href="//mm.taobao.com/" >首页</a></li>
+            <li class="popular"><a href="//mm.taobao.com/album/col_album_list.htm"   target="_blank">潮品汇</a></li>
+            <li class="match"><a href="//mm.taobao.com/share/index.htm"   target="_blank">搭配购</a></li>
+            <li class="beauty"><a href="//mm.taobao.com/search_tstar_model.htm"   target="_blank">美人库</a></li>
+            <li class="activities"><a href="//mm.taobao.com/event.htm"   target="_blank">活动</a></li>
+			<li class="user-center">
+									<a href="//mm.taobao.com/user/wei_bo.htm"    target="_blank">个人中心</a>
+				           </li>
+				
+				
+				
+        </ul>
+    </div>
+</div>
+<script>;(function(){
+
+    KISSY.use('dom, event',function(S,DOM,Event){
+        var unicodeFun = function(str){
+            var a = [],
+                    i = 0;
+            for (;i < str.length;){
+                a[i] = ('00' + str.charCodeAt(i++).toString(16)).slice( - 4);
+            }
+            return '\\u' + a.join('\\u');
+        }
+        var keywords=S.query('.J_MM_Search_Menu_Keyword','.J_MM_Search');
+        Event.on('.mm_search_input','valuechange',function(e){
+            var newVal = unicodeFun(KISSY.escapeHTML(e.newVal));
+            if(!!newVal){
+                DOM.show('.mm_search_menu');
+                S.each(keywords,function(item){
+                    DOM.html(item, KISSY.escapeHTML(e.newVal));});
+                DOM.attr('.J_MM_Search_Menu_Goods_Link','href','//mm.taobao.com/guide/model_item_search_list.htm?type=6&text='+newVal);
+                DOM.attr('.J_MM_Search_Menu_People_Link','href','//mm.taobao.com/search_tstar_model.htm?q='+newVal);}
+            else{
+                DOM.hide('.mm_search_menu');
+            }
+        });
+        Event.delegate(document,'click','body',function(e){
+            DOM.hide('.mm_search_menu');
+        });
+    });
+})();
+</script>
+
+
+
+    <!-- 页面content内容开始 -->
+	<script src="//g.alicdn.com/tb/snsdk/0.0.12/core.min.js"></script>
+	    	<script src="//g.alicdn.com/tb/tstar/0.5.5/app/ucenter/album/js/album.js?t=20131011.js"></script>
+        	<script src="//g.alicdn.com/tb/tstar/0.5.5/app/ucenter/album/js/album-list.js?t=20131011.js"></script>
+    
+	    	<script src="//g.alicdn.com/tb/tstar/0.5.5/app/verify/js/verify.js?t=20131011.js"></script>
+    
+			<link rel="stylesheet" type="text/css" href="//g.alicdn.com/tb/tstar/0.5.5/app/ucenter/album/css/photo.css?t=20130917.css"/>
+    		<link rel="stylesheet" type="text/css" href="//g.alicdn.com/tb/tstar/0.5.5/app/ucenter/album/css/popup.css?t=20130917.css"/>
+    		<link rel="stylesheet" type="text/css" href="//g.alicdn.com/tb/tstar/0.5.5/app/ucenter/album/css/photoDrag.css?t=20130917.css"/>
+    
+
+			<link rel="stylesheet" type="text/css" href="//g.alicdn.com/tb/tstar/0.5.5/app/ucenter/base/css/base.css?t=20130917.css"/>
+    
+
+<!--公共隐藏域开始-->
+<input id="J_tb_token" type="hidden" value="eede3e0eb5533" name="_tb_token_">
+<input id="J_userID" type="hidden" value="695679842" name="model_userId">
+<!--公共隐藏域结束-->
+
+<!--采集到开始-->
+<div id="J_MmacquiPop" class="mm-g-acqui-popup">
+	<div class="mm-p-acqui" id="J_MmToogle">
+	 <span id="J_MmSelect" class="mm-p-selected-item">请选择专辑</span>
+	 <div class="mm-p-acqui-drop">
+		<ul id="J_MmColList">
+			
+		</ul>
+		<p class="mm-p-create-acrui">
+			<input type="text" value="" id="J_MmCreateAc"  class="mm-p-create-acquitext"/>
+			<input class="mm-p-create-acquibut btn" id="J_MmCreateBut" type="button" value="创建">
+		</p>
+		<p class="J_error-info" style="display: none; "><span id="J_nameError" class="error">专辑名不能为空</span></p>
+	 </div>
+	</div> 
+</div>
+<!--采集到结束-->
+
+<!--照片列表模版开始-->
+<script type="tpl" id="tp2" >
+	<div class="ks-waterfall mm-photoW-cell">
+		<p class="mm-photoW-cell-top"></p>
+		<div class="mm-photoW-cell-middle">
+			<div class="mm-photoimg-area">
+				<a href="{{url}}" target="_blank">
+					<img class="mm-template-src" src="{{picUrl}}" width="{{picWidth}}" height="{{picHeight}}" />
+				</a>
+                <span class="mm-price"><b class="rmb">&#165;</b><strong class="price">{{price}}</strong></span>
+				<span class="mm-cover"></span>
+			</div>
+			<p class="mm-explain">{{des}}</p>
+			<p class="mm-delate-error">该照片已被管理员删除!</p>
+			<div class="mm-minicom" style="height:100px">
+			    <p class="mm-face"><img class="mm-face-img" src="" width="20" height="20"/></p>
+			    <div class="J_MiniCom"></div>
+				<div class="J_myComment"></div>
+			</div>
+			<div class="mm-png-24"></div>
+			<p class="mm-look-tool">
+			   <a href="javascript:" class="mm-favory" data-user-id="{{userId}}" data-album-id="{{albumId}}" data-pic-id="{{picId}}"></a>
+			   <a href="javascript:" class="mm-comment-but" data-user-id="{{userId}}" data-album-id="{{albumId}}" data-pic-id="{{picId}}"></a>
+			</p>
+			<p class="mm-photo-tool">
+				<a href="#" class="J_MMp_cover" data-user-id="{{userId}}" data-album-id="{{albumId}}" data-pic-id="{{picId}}"><i></i>设置封面</a>
+				<a href="{{url}}" target="_blank" class="J_MMp_edit"><i></i>编辑</a>
+				<a href="#" class="J_MMp_delate" data-user-id="{{userId}}" data-album-id="{{albumId}}" data-pic-id="{{picId}}"><i></i>删除</a>
+			 </p>
+			 <a href="#" class="mm-g-photo-cj" data-user-id="{{userId}}" data-album-id="{{albumId}}" data-pic-id="{{picId}}">采集</a>
+			 <a href="#" class="mm-g-photo-delate" data-user-id="{{userId}}" data-album-id="{{albumId}}" data-pic-id="{{picId}}">彻底删除</a>
+		</div>
+		
+		<p class="mm-photoW-cell-bottom"></p>
+	</div>
+	
+</script>
+<!--照片列表模版结束-->
+
+<div id="mm-content" class="mm-g-wrap">
+	<div class="mm-bread-crumbs ">
+		<a href="//mm.taobao.com/695679842.htm">韩模静敏</a>
+		 > 			 <a href="//mm.taobao.com/self/model_album.htm?user_id=695679842#J_Li0">她的相册</a>
+		  > 恋尚无限美</span>
+	</div>
+	<div class="mm-admin clearfix">
+		<!--左侧详情开始-->
+		<div class="mm-album-list" >
+   	   	  <p class="mm-photoW-top"></p>
+			<div class="mm-photoW-middle clearfix">
+							<div id="J_MyInfo">
+					<!-- 访问本人的相册，空容器存放内容 -->
+					
+				</div>
+				
+				<div id="J_panel" class="pagination page-center clearfix"></div>									<input id="J_AlbumFlag" type="hidden" data-url="//mm.taobao.com/self/album/album_photo_list.htm?user_id=695679842&album_id=10000269840&album_flag=0&top_pic_id=0&cover=%2F%2Fimg.alicdn.com%2Fimgextra%2Fi1%2F695679842%2FTB1N7JyIpXXXXblaXXXXXXXXXXX_!!695679842-0-tstar.jpg"/>
+							</div>
+			<div class="mm-photoW-bottom"></div>
+		</div>
+		<!--左侧详情结束-->
+		
+		<!--右边个人信息开始-->
+					<!--右边个人信息结束-->
+	</div>
+</div>
+	
+
+<!--弹出框开始-->
+<script type="html/tpl" >
+	<div id="J_BoxBody" >
+	   <div class="edit-box">
+		<div class="album-name clear-float">
+			<label for="J_Album"><em class="mm-red-font">*</em>相册名称:</label>
+			<div class="input-text-wrap">
+				<input type="text" class="J_AlbumName" name="albumName"/>
+			</div>
+			<span class="len-ctrl"><span class="J_CurLen">0</span>/<span class="J_MaxLen">20</span></span>
+		</div>
+		<div class="error-info">
+			<span id="J_error" class="error"></span>
+		</div>
+	
+		<div class="album-name-promt">
+			<span class="error">字数在20以内</span>
+		</div>
+		<div class="album-story clear-float">
+			<label for="J_AlbumStory">相册故事:</label>
+			<div class="input-text-wrap">
+				<textarea class="J_AlbumStory" name="albumStory"></textarea>
+			</div>
+			<span class="len-ctrl"><span class="J_CurLen">0</span>/<span class="J_MaxLen">100</span></span>
+		</div>
+		<div class="album-story-promt">
+			<span class="error">字数在100以内</span>
+		</div>
+		<div class="album-menu-wrap clear-float">
+			
+			<div class="hidde-show" id="J_ToggleDiv">
+				
+				<div class="custom-tags">
+					<label for="J_AlbumTags">相册标签 :</label>
+					<div class="input-text-wrap" style="width:210px;">
+						<input type="text" class="J_AlbumTags" style="width:210px;">
+					</div>
+					<span class="len-ctrl">空格隔开</span>
+				</div>
+				<div class="custom-tags-promt">
+					<span class="error">格式不对</span>
+				</div>
+			</div>
+		</div>
+		<div class="error-info" style="width:300px; margin:2px auto;">
+			<span id="J_sysError" class="error" style="height:auto"></span>
+		</div>
+		<p class="but-too">
+			<button class="btn-pink" id="J_createSure">
+				确定
+			</button>
+			<input class="btn" id="J_createCancel" type="button" value="取消">
+		</p>
+	</div>
+  </div>
+</script>
+<!--弹出框结束-->
+
+<!--彻底删除弹框-->
+<!--[[举报弹出框隐藏模板开始]-->
+<script type="html/tpl">
+  <div id="J_Report">
+	<div class="tstar-report">
+	  <p class="desc">不良信息是指含有色情,暴力,广告或其他骚扰到您的内容</p>
+	  <form class="J_ReportForm">
+	  <dl>
+		<dt>类型：</dt>
+		<dd>
+		  <label><input type="radio" name="delType" value="1" checked="checked" /><span>广告</span></label>
+		  <label><input type="radio" name="delType" value="2" />商品与照片不符</label>
+		  <label><input type="radio" name="delType" value="3" />盗图</label>
+		  <label><input type="radio" name="delType" value="5" />水印</label>
+		  <label><input type="radio" name="delType" value="4" />其他</label>
+		</dd>
+		<dt>删除理由<span class="smaller"></span>：</dt>
+		<dd>
+		  <textarea name="delRemark" class="J_ReportText remark">请填写删除理由</textarea>
+		  <p class="report-ctrl">
+		  <span class="report-error-msg" id="J_ReportSubErrMsg">删除理由不能为空</span>
+		  <span class="report-limit"><var id="J_ReportTextCount">0</var>/200</span>
+		  </p>
+		</dd>
+	  </dl>
+	  </form>
+	  <div class="buttons"><button class="button submit">确定提交</button></div>
+	</div>
+  </div>
+  <div id="J_ReportResult">
+	<div class="tstar-report">
+	  <div class="report-result">{{result}}</div>
+	  <div class="buttons"><button class="button submit close">关闭</button></div>
+	</div>
+  </div>
+</script>
+<!--[[举报弹出框隐藏模板结束]]-->
+	
+    
+	 </body>
+</html>
