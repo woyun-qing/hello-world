@@ -16,10 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from . import testdb
+from TestModel import views
 from django.conf.urls import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^testdb$',testdb.testdb),
-    url(r'^testdbget$',testdb.testdbget)
+    url(r'^testdbget$',testdb.testdbget),
+    url(r'^$',views.index),
 ]
