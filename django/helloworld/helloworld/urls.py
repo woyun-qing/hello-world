@@ -15,10 +15,23 @@ Including another URLconf
 """
 
 from . import testdb
+from . import search,search1
+from TestModel import views
 from django.conf.urls import *
+from django.contrib import admin
 
 urlpatterns = [
     #path('admin/', admin.site.urls),
     url(r'^testdb$',testdb.testdb),
     url(r'^testdbget$',testdb.testdbget),
+    url(r'^$',views.index),
+    url(r'^detail$',views.detail),
+    url(r'^chapter.html$',views.chapter),
+    url(r'^more.html$',views.more),
+    url(r'^search.html$',views.search),
+    url(r'^search1$',search.search),
+    url(r'^search-form$',search.search_form),
+    url(r'^search-post$',search1.search_post),
+    url(r'^admin/',admin.site.urls),
+
 ]
